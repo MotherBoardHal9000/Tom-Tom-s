@@ -1,0 +1,98 @@
+콘텐츠 사이즈 : 1400px
+포인트컬러 : #f15676
+글자색 : #333, #666
+footer영역 글자색 : #8a8a8a
+footer영역 배경색 : #efefef
+
+기본 폰트 : noto sans kr, 영문 roboto
+
+index.html
+css/base.css
+
+
+#header - W그리드, H100, 가운데배치
+   div - float:left; w700
+   div.nav - float:left; w700, 오른쪽정렬
+       p
+       ul.gnb
+
+#mainbn : H800, BG
+
+#section1
+    h2 - 이미지
+    ul li - 3단배열(33.333%), 2단배열(50%), 4단(25%), 5단(20%)
+
+#bn : H600, 배경이미지
+   div : W그리드, padding-left:700px 
+        div.bn1
+        div.bn2
+        p
+        ul li (w226+테두리2=228, 갭8)
+
+#section2 : #section1과 동일
+#section3  
+    h2 - 이미지
+    ul li - 5*2
+
+
+#footer :  배경색, 패딩100px
+    div : w그리드, 가운데배치
+        .bottom1 : float레프트, W25% 
+        .bottom2 : float레프트, W50%
+            ul
+            div
+            p
+        .bottom3 : float레프트, W25%, 오른쪽정렬
+ 
+
+
+
+
+
+매장찾기 | 탐앤탐스 몰 | ENGLISH | CHINESE
+
+MENU
+EVENT
+STORE
+SERVICE
+COMMUNITY
+TOM N TOMS
+
+
+대한민국 대표 스페셜티 커피 브랜드 (폰트크기: 48px;폰트굵기:medium, 자간: -0.045em;)
+TOM N TOMS ( 폰트크기:  55px;  폰트굵기: black;)
+
+(아래 문구 영역 스타일 :     font-size: 24px;
+    letter-spacing: -0.045em;
+    line-height: 1.5;
+탐앤탐스는 오랜 노하우로 국내외 커피 시장을 선도하며
+스페셜티 커피와 갓 구운 따뜻한 프레즐, 문화가 융합된 특별한 공간으로
+지금 대한민국을 비롯해 전 세계에서 사랑받는 브랜드입니다.
+
+가맹문의
+브랜드 소개
+신규매장 소개
+
+SNS영역 
+이미지에 디폴트 상태: 투명도 -80%,  마우스 호버 시 투명도 100%, 
+
+
+고객만족센터 (font-size:16px, 글자색 :#572a31)
+02. 3412. 0781 (폰트체:roboto,  폰트굵기:light,폰트크기:36px,글자색 :#572a31)
+
+(FNB: 글자색:#8a8a8a, 폰트크기:14px, 폰트굵기:regular)
+회사소개
+채용안내
+프랜차이즈
+계열사소개
+공지사항
+고객만족센터
+찾아오시는 길
+가맹점 전용 게시판
+
+follow us - 글자색:#8a8a8a, 폰트크기:14px, 폰트굵기:medium
+
+서울특별시 강남구 논현로 163길 10 베드로빌딩 2F (구 : 신사동 570-6) 대표 : 김도균
+사업자등록번호 : 215-86-65050 개인정보 책임자 : 이동규 TEL. 02-3412-0781 FAX. 02-3412-1907
+
+COPYRIGHT ⓒ 2015 TOM N TOMS COFFEE. ALL RIGHTS RESERVED.

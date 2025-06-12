@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+ :root { /*Size*/
+  --size-max-width: 1400px;
+}
+.max-container {
+  max-width: var(--size-max-width);
+  margin: auto;
+}
+
+
+strong,
+b,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-style: normal;
+}
+
+em,
+i {
+  font-style: normal;
+}
+
+ul,
+ol,
+li {
+  list-style: none;
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  background-color: transparent;
+}
+
+a{color: #111111;}
+a:link{color:#111; text-decoration: none; cursor: pointer;}
+
+a:hover{
+  color:#111; text-decoration: none;
+}
